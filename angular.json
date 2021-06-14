@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-playground-one"
+    }
+  },
+  "defaultProject": "angular-playground-one",
+  "cli": {
+    "analytics": false
+  }
 }
